@@ -1,1 +1,1 @@
-# HTML_CSS_Modulul 3 - Lectia 6 - Flexbox
+# HTML_CSS_Modulul 3 - Lectia 7
